@@ -84,7 +84,7 @@ def menu1():
 
     print ("0. Quit")
 
-    choice = raw_input(" >>  ")
+    choice = input(" >>  ")
 
     exec_menu(choice)
 
@@ -104,7 +104,7 @@ def menu2():
 
     print ("0. Quit")
 
-    choice = raw_input(" >>  ")
+    choice = input(" >>  ")
 
     exec_menu(choice)
 
@@ -120,7 +120,7 @@ def menu3():
 
     print ("0. Quit")
 
-    choice = raw_input(" >>  ")
+    choice = input(" >>  ")
 
     exec_menu(choice)
 
